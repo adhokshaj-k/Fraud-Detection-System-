@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+faker
+websockets
+python-multipart
+reportlab
+google-generativeai
+python-dotenv
+python-jose[cryptography]
+passlib
