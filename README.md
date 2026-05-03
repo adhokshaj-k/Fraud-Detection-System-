@@ -86,11 +86,11 @@ fraud-detection-system/
 ```
 ## Validation 
 
-###1)backend 
+### 1) Backend 
 ```bash
 python -m compileall backend
 ```
-###2)frontend 
+### 2) Frontend 
 ```bash
 npm run build
 ```
