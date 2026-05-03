@@ -86,8 +86,14 @@ fraud-detection-system/
 ```
 ## Validation 
 
-backend - python -m compileall backend
-frontend - npm run build
+###1)backend 
+```bash
+python -m compileall backend
+```
+###2)frontend 
+```bash
+npm run build
+```
 ## Setup & Run
 
 ### 1) Backend
